@@ -7,7 +7,7 @@
 
 - 👩‍💻 Developer with more then 10 years experience.
 - 🥅 2023 Goals: Study hard and actively looking for a full-time position in the United States.
-- 🔭 I’m currently working as an intern on Kasten by Veeam | #1 kuernates Backup.
+<!--- 🔭 I’m currently working as an intern on Kasten by Veeam | #1 kuernates Backup.-->
 - 🍸 I can make exquisite cocktails myself.
 - 👑 I am an avid gamer who has spent over 300 hours playing Zelda and over 300 hours playing Assassin's Creed.
 - 💃 I am a novice dancer with 10 years experience. :slightly_smiling_face:
