@@ -12,6 +12,7 @@
 - 💃 I am a novice dancer with 10 years experience. :slightly_smiling_face:
 - 📫 How to reach me: https://www.instagram.com/yi.chizi/.
 - 🤝 I will continuously update LeetCode solutions in a easy and understandable manner:https://leetcode.com/MichelleZou/.
+- 🔗 Technical Blog: https://substack.com/profile/154615282-minyi-zou 
 
 
 
