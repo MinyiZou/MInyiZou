@@ -1,7 +1,7 @@
 
 ### Hi there, I am ✨ Minyi ✨ 👋
 
-### I'm a graduate student in CMU INI, :video_game: games lover, 💃 dancer and 👩‍💻 Developer! <img align="right" src="https://github.com/MinyiZou/MInyiZou/assets/104998797/a8e0aa3f-d5f9-48d1-a09e-b4abff614f5e" alt="Programmation" width="200" />
+### I just graduated from CMU INI. I'm a 🎮 games lover, 💃 dancer and 👩‍💻 Developer! <img align="right" src="https://github.com/MinyiZou/MInyiZou/assets/104998797/a8e0aa3f-d5f9-48d1-a09e-b4abff614f5e" alt="Programmation" width="200" />
 
 
 
